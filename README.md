@@ -1,6 +1,3 @@
-<img align="right" height="280"
-src="https://raw.githubusercontent.com/undraw/illustrations/main/programming.svg"/>
-
 ## 👋 Olá, eu sou o Adriel Andrade
 
 Estudante de **Ciências da Computação**  
@@ -41,3 +38,11 @@ Busco uma oportunidade onde eu possa:
 ## 📫 Vamos conversar?
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriel%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriel-andrade-524837241)
 [![Email](https://img.shields.io/badge/Email-adriel.andrade.dev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adriel.andrade.dev@gmail.com)
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Adriel-andrade/Adriel-andrade/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Adriel-andrade/Adriel-andrade/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Adriel-andrade/Adriel-andrade/output/pacman-contribution-graph.svg">
+</picture>
+
+###
