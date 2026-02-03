@@ -1,4 +1,4 @@
-## Olá, eu sou o Adriel Andrade
+## 👋Olá, eu sou o Adriel Andrade
 
 Estudante de **Ciências da Computação**  
 Desenvolvedor em constante aprendizado, com foco em **Backend e lógica de programação**  
