@@ -1,41 +1,63 @@
-## 👋 Olá, eu sou o Adriel Andrade
+# 👋 Olá, eu sou Adriel Andrade
 
-Estudante de **Ciências da Computação**  
-Desenvolvedor em constante evolução, com foco em **C# e Programação Orientada a Objetos**  
-📍 Recife - PE | Brasil  
+💻 Desenvolvedor em evolução focado em desenvolvimento web e construção de aplicações modernas utilizando JavaScript.
 
-Sou apaixonado por tecnologia e por entender como as coisas funcionam.  
-Atualmente estou focado em construir uma **base sólida em lógica de programação e backend**, visando uma oportunidade de **estágio ou posição júnior em TI**.
+Atualmente estou desenvolvendo o **ObraFlow**, um sistema web para gerenciamento de obras e serviços, com foco em aprendizado prático de frontend, APIs REST e organização de aplicações reais.
+
+📍 Recife - PE | Brasil
 
 ---
 
-## 🚀 Tecnologias & Conhecimentos
+# 🚀 Tecnologias & Ferramentas
 
-### Linguagens
-- **C#**
-- JavaScript (básico)
-- 
-### Conceitos
+## 💻 Frontend
+- HTML5
+- CSS3
+- JavaScript
+- React
+- Vite
+
+## ⚙️ Backend
+- Node.js
+- Express
+
+## 🧠 Conceitos
 - Lógica de Programação
-- Programação Orientada a Objetos (POO)
-- Estruturas de repetição e decisão
-- Métodos e boas práticas
-- Versionamento de código
+- Programação Orientada a Objetos
+- APIs REST
+- Componentização
+- Responsividade
+- Organização de código
 
-### Ferramentas
-- .NET
+## 🛠️ Ferramentas
 - Git & GitHub
-- Visual Studio / VS Code
+- VS Code
+- Visual Studio
 - Linux (básico)
-- 
-##Objetivo Profissional
-Busco uma oportunidade onde eu possa:
-- Aplicar meus conhecimentos em C#
-- Aprender com profissionais experientes
-- Evoluir tecnicamente
-- Contribuir de forma responsável e consistente com a equipe
 
-## 📫 Vamos conversar?
+---
+
+# 📈 Objetivo Profissional
+
+Busco uma oportunidade de estágio ou posição júnior na área de desenvolvimento, onde eu possa:
+- Evoluir tecnicamente
+- Trabalhar em projetos reais
+- Aprender com profissionais experientes
+- Contribuir com soluções práticas
+
+---
+
+# 📚 Atualmente estudando
+
+- React
+- Node.js
+- APIs REST
+- Estruturação de sistemas web
+
+---
+
+# 📫 Contato
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Adriel%20Andrade-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/adriel-andrade-524837241)
 [![Email](https://img.shields.io/badge/Email-adriel.andrade.dev@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:adriel.andrade.dev@gmail.com)
 
